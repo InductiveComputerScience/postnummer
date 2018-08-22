@@ -14,7 +14,7 @@ Norwegian postal codes is called "postnummer" and "poststed" in norwegian.
 
 The library has been made with [progsbase](https://www.progsbase.com), a tool for creating rot-resistant programs that are translatable to many programming languages.
 
-The library can also be browsed and tested on the [progsbase repository's fodselsnummer page](https://repo.progsbase.com/repoviewer/no.inductive.libraries/postnummer/0.1.1).
+The library can also be browsed and tested on the [progsbase repository's postnummer page](https://repo.progsbase.com/repoviewer/no.inductive.libraries/postnummer/0.1.1).
 
 ![progsbase logo](/docs/images/progsbase-logo.png)
 
